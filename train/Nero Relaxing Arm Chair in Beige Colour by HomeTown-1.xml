@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nero Relaxing Arm Chair in Beige Colour by HomeTown</folder>
+	<filename>Nero Relaxing Arm Chair in Beige Colour by HomeTown-1.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/All Chairs/Nero Relaxing Arm Chair in Beige Colour by HomeTown/Nero Relaxing Arm Chair in Beige Colour by HomeTown-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nero Relaxing Arm Chair in Beige Colour by HomeTown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>94</ymin>
+			<xmax>1467</xmax>
+			<ymax>1635</ymax>
+		</bndbox>
+	</object>
+</annotation>

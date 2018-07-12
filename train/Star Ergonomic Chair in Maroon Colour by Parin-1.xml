@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Star Ergonomic Chair in Maroon Colour by Parin</folder>
+    <filename>Star Ergonomic Chair in Maroon Colour by Parin-1.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Star Ergonomic Chair in Maroon Colour by Parin</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>364</xmin>
+            <ymin>427</ymin>
+            <xmax>1166</xmax>
+            <ymax>1716</ymax>
+        </bndbox>
+    </object>
+</annotation>

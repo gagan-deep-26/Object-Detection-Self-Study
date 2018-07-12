@@ -1,0 +1,26 @@
+<annotation>
+	<folder>(Buy 1 and get 1 free)	Mesh 109 Series Ergonomic Chair in Black Colour by Emperor</folder>
+	<filename>(Buy 1 and get 1 free)	Mesh 109 Series Ergonomic Chair in Black Colour by Emperor-3.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\(Buy 1 and get 1 free)	Mesh 109 Series Ergonomic Chair in Black Colour by Emperor\(Buy 1 and get 1 free)	Mesh 109 Series Ergonomic Chair in Black Colour by Emperor-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mesh 109 Series Ergonomic Chair in Black Colour by Emperor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>876</xmin>
+			<ymin>715</ymin>
+			<xmax>1427</xmax>
+			<ymax>1677</ymax>
+		</bndbox>
+	</object>
+</annotation>

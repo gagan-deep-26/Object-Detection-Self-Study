@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dylan Rocking Chair in Red Colour by Nilkamal</folder>
+	<filename>Dylan Rocking Chair in Red Colour by Nilkamal-2.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ChairsThatImLabelling\Dylan Rocking Chair in Red Colour by Nilkamal\Dylan Rocking Chair in Red Colour by Nilkamal-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dylan Rocking Chair in Red Colour by Nilkamal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>7</ymin>
+			<xmax>1271</xmax>
+			<ymax>1669</ymax>
+		</bndbox>
+	</object>
+</annotation>

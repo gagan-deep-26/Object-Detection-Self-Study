@@ -1,0 +1,23 @@
+<annotation>
+    <folder>White &amp; Black Fabric Table Lamp by VarEesha</folder>
+    <filename>White &amp; Black Fabric Table Lamp by VarEesha-3.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>White &amp; Black Fabric Table Lamp by VarEesha</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>296</xmin>
+            <ymin>150</ymin>
+            <xmax>1273</xmax>
+            <ymax>1675</ymax>
+        </bndbox>
+    </object>
+</annotation>

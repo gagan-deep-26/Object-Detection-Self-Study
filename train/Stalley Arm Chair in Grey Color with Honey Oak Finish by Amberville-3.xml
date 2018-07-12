@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Stalley Arm Chair in Grey Color with Honey Oak Finish by Amberville</folder>
+    <filename>Stalley Arm Chair in Grey Color with Honey Oak Finish by Amberville-3.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Stalley Arm Chair in Grey Color with Honey Oak Finish by Amberville</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>818</xmin>
+            <ymin>946</ymin>
+            <xmax>1433</xmax>
+            <ymax>1694</ymax>
+        </bndbox>
+    </object>
+</annotation>

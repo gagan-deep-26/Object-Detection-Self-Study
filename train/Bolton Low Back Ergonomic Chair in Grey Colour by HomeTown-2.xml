@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bolton Low Back Ergonomic Chair in Grey Colour by HomeTown</folder>
+	<filename>Bolton Low Back Ergonomic Chair in Grey Colour by HomeTown-2.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Bolton Low Back Ergonomic Chair in Grey Colour by HomeTown\Bolton Low Back Ergonomic Chair in Grey Colour by HomeTown-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bolton Low Back Ergonomic Chair in Grey Colour by HomeTown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>17</ymin>
+			<xmax>1349</xmax>
+			<ymax>1699</ymax>
+		</bndbox>
+	</object>
+</annotation>

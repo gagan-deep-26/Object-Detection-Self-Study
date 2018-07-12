@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Santiago White Mango Wood Table Lamp by Casacraft</folder>
+    <filename>Santiago White Mango Wood Table Lamp by Casacraft-6.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Santiago White Mango Wood Table Lamp by Casacraft</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>561</xmin>
+            <ymin>122</ymin>
+            <xmax>1176</xmax>
+            <ymax>1760</ymax>
+        </bndbox>
+    </object>
+</annotation>

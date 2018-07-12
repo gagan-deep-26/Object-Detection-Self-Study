@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Porto Green Mango Wood Table Lamp by Casacraft</folder>
+    <filename>Porto Green Mango Wood Table Lamp by Casacraft-8.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Porto Green Mango Wood Table Lamp by Casacraft</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1072</xmin>
+            <ymin>1027</ymin>
+            <xmax>1533</xmax>
+            <ymax>1721</ymax>
+        </bndbox>
+    </object>
+</annotation>

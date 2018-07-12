@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Aspen Folding Chair by InLiving</folder>
+	<filename>Aspen Folding Chair by InLiving-6.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Aspen Folding Chair by InLiving\Aspen Folding Chair by InLiving-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aspen Folding Chair by InLiving</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>15</ymin>
+			<xmax>1511</xmax>
+			<ymax>1674</ymax>
+		</bndbox>
+	</object>
+</annotation>

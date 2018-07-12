@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Daytona Beach Club Rocking Chair in Rocking Red Colour by HomeHQ</folder>
+	<filename>Daytona Beach Club Rocking Chair in Rocking Red Colour by HomeHQ-4.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Daytona Beach Club Rocking Chair in Rocking Red Colour by HomeHQ\Daytona Beach Club Rocking Chair in Rocking Red Colour by HomeHQ-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daytona Beach Club Rocking Chair in Rocking Red Colour by HomeHQ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>20</ymin>
+			<xmax>1595</xmax>
+			<ymax>1663</ymax>
+		</bndbox>
+	</object>
+</annotation>

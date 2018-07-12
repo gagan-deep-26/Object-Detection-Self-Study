@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Amos Metal Chair in Brown Color by Bohemiana</folder>
+	<filename>Amos Metal Chair in Brown Color by Bohemiana-3.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Amos Metal Chair in Brown Color by Bohemiana\Amos Metal Chair in Brown Color by Bohemiana-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Amos Metal Chair in Brown Color by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>834</ymin>
+			<xmax>1365</xmax>
+			<ymax>1693</ymax>
+		</bndbox>
+	</object>
+</annotation>

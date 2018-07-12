@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Contour Ergonomic Chair in Black Colour by VOF</folder>
+	<filename>Contour Ergonomic Chair in Black Colour by VOF-3.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Contour Ergonomic Chair in Black Colour by VOF\Contour Ergonomic Chair in Black Colour by VOF-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Contour Ergonomic Chair in Black Colour by VOF</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>765</xmin>
+			<ymin>777</ymin>
+			<xmax>1376</xmax>
+			<ymax>1642</ymax>
+		</bndbox>
+	</object>
+</annotation>

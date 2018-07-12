@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Astec Ergonomic Chair in Grey Colour by Parin</folder>
+	<filename>Astec Ergonomic Chair in Grey Colour by Parin-2.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Astec Ergonomic Chair in Grey Colour by Parin\Astec Ergonomic Chair in Grey Colour by Parin-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Astec Ergonomic Chair in Grey Colour by Parin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>7</ymin>
+			<xmax>1298</xmax>
+			<ymax>1712</ymax>
+		</bndbox>
+	</object>
+</annotation>

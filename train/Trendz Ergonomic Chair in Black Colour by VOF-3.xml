@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Trendz Ergonomic Chair in Black Colour by VOF</folder>
+    <filename>Trendz Ergonomic Chair in Black Colour by VOF-3.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Trendz Ergonomic Chair in Black Colour by VOF</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>818</xmin>
+            <ymin>775</ymin>
+            <xmax>1357</xmax>
+            <ymax>1690</ymax>
+        </bndbox>
+    </object>
+</annotation>

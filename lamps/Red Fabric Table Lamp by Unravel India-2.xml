@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Red Fabric Table Lamp by Unravel India</folder>
+    <filename>Red Fabric Table Lamp by Unravel India-2.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Red Fabric Table Lamp by Unravel India</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>171</xmin>
+            <ymin>37</ymin>
+            <xmax>1422</xmax>
+            <ymax>1670</ymax>
+        </bndbox>
+    </object>
+</annotation>

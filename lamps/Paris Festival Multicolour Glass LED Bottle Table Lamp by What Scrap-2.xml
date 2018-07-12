@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Paris Festival Multicolour Glass LED Bottle Table Lamp by What Scrap</folder>
+    <filename>Paris Festival Multicolour Glass LED Bottle Table Lamp by What Scrap-2.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Paris Festival Multicolour Glass LED Bottle Table Lamp by What Scrap</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>426</xmin>
+            <ymin>104</ymin>
+            <xmax>1059</xmax>
+            <ymax>1735</ymax>
+        </bndbox>
+    </object>
+</annotation>

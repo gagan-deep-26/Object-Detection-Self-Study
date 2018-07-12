@@ -1,0 +1,36 @@
+<annotation>
+    <folder>Wellesley Rocking Chair in Honey Oak Finish by Amberville</folder>
+    <filename>Wellesley Rocking Chair in Honey Oak Finish by Amberville-3.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Wellesley Rocking Chair in Honey Oak Finish by Amberville</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>797</xmin>
+            <ymin>1052</ymin>
+            <xmax>1402</xmax>
+            <ymax>1581</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Wellesley Rocking Chair in Honey Oak Finish by Amberville</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>460</xmin>
+            <ymin>1063</ymin>
+            <xmax>765</xmax>
+            <ymax>1575</ymax>
+        </bndbox>
+    </object>
+</annotation>

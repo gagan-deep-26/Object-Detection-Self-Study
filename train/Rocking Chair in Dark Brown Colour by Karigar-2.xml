@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Rocking Chair in Dark Brown Colour by Karigar</folder>
+    <filename>Rocking Chair in Dark Brown Colour by Karigar-2.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Rocking Chair in Dark Brown Colour by Karigar</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>299</xmin>
+            <ymin>23</ymin>
+            <xmax>1286</xmax>
+            <ymax>1681</ymax>
+        </bndbox>
+    </object>
+</annotation>

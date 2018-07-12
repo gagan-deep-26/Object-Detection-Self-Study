@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Stigen Arm Chair in Provincial Teak Finish by Woodsworth</folder>
+    <filename>Stigen Arm Chair in Provincial Teak Finish by Woodsworth-8.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Stigen Arm Chair in Provincial Teak Finish by Woodsworth</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>110</xmin>
+            <ymin>36</ymin>
+            <xmax>1522</xmax>
+            <ymax>1760</ymax>
+        </bndbox>
+    </object>
+</annotation>

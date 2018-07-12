@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Plastic Chair in Mapple &amp; Weather Brown Colour by Nilkamal</folder>
+    <filename>Plastic Chair in Mapple &amp; Weather Brown Colour by Nilkamal-2.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Plastic Chair in Mapple &amp; Weather Brown Colour by Nilkamal</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>943</xmin>
+            <ymin>749</ymin>
+            <xmax>1483</xmax>
+            <ymax>1680</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+    <folder>Segur Arm Chair in Provincial Teak Finish by Woodsworth</folder>
+    <filename>Segur Arm Chair in Provincial Teak Finish by Woodsworth-3.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Segur Arm Chair in Provincial Teak Finish by Woodsworth</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1006</xmin>
+            <ymin>1061</ymin>
+            <xmax>1365</xmax>
+            <ymax>1584</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Segur Arm Chair in Provincial Teak Finish by Woodsworth</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>598</xmin>
+            <ymin>1051</ymin>
+            <xmax>965</xmax>
+            <ymax>1587</ymax>
+        </bndbox>
+    </object>
+</annotation>

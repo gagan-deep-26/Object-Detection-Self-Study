@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Alex Low Seating Rocking Chair with Arm Rest in Black Colour by Parin</folder>
+	<filename>Alex Low Seating Rocking Chair with Arm Rest in Black Colour by Parin-4.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Alex Low Seating Rocking Chair with Arm Rest in Black Colour by Parin\Alex Low Seating Rocking Chair with Arm Rest in Black Colour by Parin-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alex Low Seating Rocking Chair with Arm Rest in Black Colour by Parin</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>320</ymin>
+			<xmax>1600</xmax>
+			<ymax>1647</ymax>
+		</bndbox>
+	</object>
+</annotation>

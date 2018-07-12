@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Thames Low Back Ergonomic Chair in Maroon Colour by Nilkamal</folder>
+    <filename>Thames Low Back Ergonomic Chair in Maroon Colour by Nilkamal-7.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Thames Low Back Ergonomic Chair in Maroon Colour by Nilkamal</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>182</xmin>
+            <ymin>9</ymin>
+            <xmax>1475</xmax>
+            <ymax>1661</ymax>
+        </bndbox>
+    </object>
+</annotation>

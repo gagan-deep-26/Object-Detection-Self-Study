@@ -1,0 +1,23 @@
+<annotation>
+    <folder>White Cotton Cybil Table Lamp by Orange Tree</folder>
+    <filename>White Cotton Cybil Table Lamp by Orange Tree-8.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>White Cotton Cybil Table Lamp by Orange Tree</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1043</xmin>
+            <ymin>956</ymin>
+            <xmax>1442</xmax>
+            <ymax>1596</ymax>
+        </bndbox>
+    </object>
+</annotation>

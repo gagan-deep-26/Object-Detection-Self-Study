@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Clifford Arm Chair in Honey Oak Finish by Amberville</folder>
+	<filename>Clifford Arm Chair in Honey Oak Finish by Amberville-2.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Clifford Arm Chair in Honey Oak Finish by Amberville\Clifford Arm Chair in Honey Oak Finish by Amberville-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clifford Arm Chair in Honey Oak Finish by Amberville</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>174</ymin>
+			<xmax>1376</xmax>
+			<ymax>1688</ymax>
+		</bndbox>
+	</object>
+</annotation>

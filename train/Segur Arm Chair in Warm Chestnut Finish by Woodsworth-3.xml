@@ -1,0 +1,36 @@
+<annotation>
+    <folder>Segur Arm Chair in Warm Chestnut Finish by Woodsworth</folder>
+    <filename>Segur Arm Chair in Warm Chestnut Finish by Woodsworth-3.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Segur Arm Chair in Warm Chestnut Finish by Woodsworth</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1012</xmin>
+            <ymin>1052</ymin>
+            <xmax>1372</xmax>
+            <ymax>1577</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Segur Arm Chair in Warm Chestnut Finish by Woodsworth</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>592</xmin>
+            <ymin>1052</ymin>
+            <xmax>979</xmax>
+            <ymax>1592</ymax>
+        </bndbox>
+    </object>
+</annotation>

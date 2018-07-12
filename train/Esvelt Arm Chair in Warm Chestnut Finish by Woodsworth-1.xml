@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Esvelt Arm Chair in Warm Chestnut Finish by Woodsworth</folder>
+	<filename>Esvelt Arm Chair in Warm Chestnut Finish by Woodsworth-1.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\All Chairs\Esvelt Arm Chair in Warm Chestnut Finish by Woodsworth\Esvelt Arm Chair in Warm Chestnut Finish by Woodsworth-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Esvelt Arm Chair in Warm Chestnut Finish by Woodsworth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>390</ymin>
+			<xmax>1263</xmax>
+			<ymax>1647</ymax>
+		</bndbox>
+	</object>
+</annotation>

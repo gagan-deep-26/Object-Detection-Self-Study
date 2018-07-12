@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Valencia Orange Shade Mango Wood Table Lamp by Casacraft</folder>
+    <filename>Valencia Orange Shade Mango Wood Table Lamp by Casacraft-5.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Valencia Orange Shade Mango Wood Table Lamp by Casacraft</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>368</xmin>
+            <ymin>115</ymin>
+            <xmax>1268</xmax>
+            <ymax>1711</ymax>
+        </bndbox>
+    </object>
+</annotation>

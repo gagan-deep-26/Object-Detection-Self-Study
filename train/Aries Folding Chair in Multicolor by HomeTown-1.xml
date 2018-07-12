@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Aries Folding Chair in Multicolor by HomeTown</folder>
+	<filename>Aries Folding Chair in Multicolor by HomeTown-1.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Aries Folding Chair in Multicolor by HomeTown\Aries Folding Chair in Multicolor by HomeTown-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aries Folding Chair in Multicolor by HomeTown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>277</ymin>
+			<xmax>1487</xmax>
+			<ymax>1661</ymax>
+		</bndbox>
+	</object>
+</annotation>

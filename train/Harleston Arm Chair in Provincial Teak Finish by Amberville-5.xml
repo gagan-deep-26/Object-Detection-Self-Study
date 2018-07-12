@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Harleston Arm Chair in Provincial Teak Finish by Amberville</folder>
+	<filename>Harleston Arm Chair in Provincial Teak Finish by Amberville-5.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\All Chairs\Harleston Arm Chair in Provincial Teak Finish by Amberville\Harleston Arm Chair in Provincial Teak Finish by Amberville-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Harleston Arm Chair in Provincial Teak Finish by Amberville</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>17</ymin>
+			<xmax>1301</xmax>
+			<ymax>1680</ymax>
+		</bndbox>
+	</object>
+</annotation>

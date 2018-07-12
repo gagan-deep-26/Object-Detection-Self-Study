@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Stanrock Metal Chair (Set of 2) in Antique Bronze by Bohemiana</folder>
+    <filename>Stanrock Metal Chair (Set of 2) in Antique Bronze by Bohemiana-5.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Stanrock Metal Chair (Set of 2) in Antique Bronze by Bohemiana</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>324</xmin>
+            <ymin>38</ymin>
+            <xmax>1242</xmax>
+            <ymax>1598</ymax>
+        </bndbox>
+    </object>
+</annotation>

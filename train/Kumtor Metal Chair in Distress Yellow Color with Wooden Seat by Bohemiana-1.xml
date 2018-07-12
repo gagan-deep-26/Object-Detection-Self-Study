@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kumtor Metal Chair in Distress Yellow Color with Wooden Seat by Bohemiana</folder>
+	<filename>Kumtor Metal Chair in Distress Yellow Color with Wooden Seat by Bohemiana-1.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\All Chairs\Kumtor Metal Chair in Distress Yellow Color with Wooden Seat by Bohemiana\Kumtor Metal Chair in Distress Yellow Color with Wooden Seat by Bohemiana-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kumtor Metal Chair in Distress Yellow Color with Wooden Seat by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>134</ymin>
+			<xmax>1274</xmax>
+			<ymax>1666</ymax>
+		</bndbox>
+	</object>
+</annotation>

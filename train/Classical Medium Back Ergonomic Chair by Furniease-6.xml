@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Classical Medium Back Ergonomic Chair by Furniease</folder>
+	<filename>Classical Medium Back Ergonomic Chair by Furniease-6.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Classical Medium Back Ergonomic Chair by Furniease\Classical Medium Back Ergonomic Chair by Furniease-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Classical Medium Back Ergonomic Chair by Furniease</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>31</ymin>
+			<xmax>1346</xmax>
+			<ymax>1655</ymax>
+		</bndbox>
+	</object>
+</annotation>

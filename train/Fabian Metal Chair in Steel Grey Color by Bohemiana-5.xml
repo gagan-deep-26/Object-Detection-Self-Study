@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fabian Metal Chair in Steel Grey Color by Bohemiana</folder>
+	<filename>Fabian Metal Chair in Steel Grey Color by Bohemiana-5.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\All Chairs\Fabian Metal Chair in Steel Grey Color by Bohemiana\Fabian Metal Chair in Steel Grey Color by Bohemiana-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fabian Metal Chair in Steel Grey Color by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>4</ymin>
+			<xmax>1314</xmax>
+			<ymax>1685</ymax>
+		</bndbox>
+	</object>
+</annotation>

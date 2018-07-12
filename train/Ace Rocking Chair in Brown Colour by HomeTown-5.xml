@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ace Rocking Chair in Brown Colour by HomeTown</folder>
+	<filename>Ace Rocking Chair in Brown Colour by HomeTown-5.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Ace Rocking Chair in Brown Colour by HomeTown\Ace Rocking Chair in Brown Colour by HomeTown-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ace Rocking Chair in Brown Colour by HomeTown</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>196</ymin>
+			<xmax>1600</xmax>
+			<ymax>1652</ymax>
+		</bndbox>
+	</object>
+</annotation>

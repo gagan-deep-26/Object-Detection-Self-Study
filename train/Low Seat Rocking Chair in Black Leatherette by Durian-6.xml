@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Low Seat Rocking Chair in Black Leatherette by Durian</folder>
+	<filename>Low Seat Rocking Chair in Black Leatherette by Durian-6.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/All Chairs/Low Seat Rocking Chair in Black Leatherette by Durian/Low Seat Rocking Chair in Black Leatherette by Durian-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Low Seat Rocking Chair in Black Leatherette by Durian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>84</ymin>
+			<xmax>1590</xmax>
+			<ymax>1635</ymax>
+		</bndbox>
+	</object>
+</annotation>

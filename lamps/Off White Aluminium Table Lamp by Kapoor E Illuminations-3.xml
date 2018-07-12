@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Off White Aluminium Table Lamp by Kapoor E Illuminations</folder>
+    <filename>Off White Aluminium Table Lamp by Kapoor E Illuminations-3.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Off White Aluminium Table Lamp by Kapoor E Illuminations</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>243</xmin>
+            <ymin>439</ymin>
+            <xmax>1362</xmax>
+            <ymax>1489</ymax>
+        </bndbox>
+    </object>
+</annotation>

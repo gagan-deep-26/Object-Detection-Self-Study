@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Daisy Rocking Chair in White Colour by Parin</folder>
+	<filename>Daisy Rocking Chair in White Colour by Parin-3.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Daisy Rocking Chair in White Colour by Parin\Daisy Rocking Chair in White Colour by Parin-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daisy Rocking Chair in White Colour by Parin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>652</xmin>
+			<ymin>782</ymin>
+			<xmax>1484</xmax>
+			<ymax>1642</ymax>
+		</bndbox>
+	</object>
+</annotation>

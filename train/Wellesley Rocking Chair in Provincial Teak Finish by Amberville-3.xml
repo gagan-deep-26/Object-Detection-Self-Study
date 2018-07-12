@@ -1,0 +1,36 @@
+<annotation>
+    <folder>Wellesley Rocking Chair in Provincial Teak Finish by Amberville</folder>
+    <filename>Wellesley Rocking Chair in Provincial Teak Finish by Amberville-3.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Wellesley Rocking Chair in Provincial Teak Finish by Amberville</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>792</xmin>
+            <ymin>1055</ymin>
+            <xmax>1398</xmax>
+            <ymax>1577</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Wellesley Rocking Chair in Provincial Teak Finish by Amberville</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>466</xmin>
+            <ymin>1066</ymin>
+            <xmax>746</xmax>
+            <ymax>1578</ymax>
+        </bndbox>
+    </object>
+</annotation>

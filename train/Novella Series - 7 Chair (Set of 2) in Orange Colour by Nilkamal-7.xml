@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Novella Series - 7 Chair (Set of 2) in Orange Colour by Nilkamal</folder>
+	<filename>Novella Series - 7 Chair (Set of 2) in Orange Colour by Nilkamal-7.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/All Chairs/Novella Series - 7 Chair (Set of 2) in Orange Colour by Nilkamal/Novella Series - 7 Chair (Set of 2) in Orange Colour by Nilkamal-7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Novella Series - 7 Chair (Set of 2) in Orange Colour by Nilkamal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>22</ymin>
+			<xmax>1278</xmax>
+			<ymax>1645</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anne Arm Chair in Provincial Teak Finish by Amberville</folder>
+	<filename>Anne Arm Chair in Provincial Teak Finish by Amberville-4.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Anne Arm Chair in Provincial Teak Finish by Amberville\Anne Arm Chair in Provincial Teak Finish by Amberville-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anne Arm Chair in Provincial Teak Finish by Amberville</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1233</xmin>
+			<ymin>734</ymin>
+			<xmax>1587</xmax>
+			<ymax>1263</ymax>
+		</bndbox>
+	</object>
+</annotation>

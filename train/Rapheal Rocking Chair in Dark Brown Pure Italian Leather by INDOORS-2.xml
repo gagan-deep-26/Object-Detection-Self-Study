@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Rapheal Rocking Chair in Dark Brown Pure Italian Leather by INDOORS</folder>
+    <filename>Rapheal Rocking Chair in Dark Brown Pure Italian Leather by INDOORS-2.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Rapheal Rocking Chair in Dark Brown Pure Italian Leather by INDOORS</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>204</xmin>
+            <ymin>36</ymin>
+            <xmax>1456</xmax>
+            <ymax>1647</ymax>
+        </bndbox>
+    </object>
+</annotation>

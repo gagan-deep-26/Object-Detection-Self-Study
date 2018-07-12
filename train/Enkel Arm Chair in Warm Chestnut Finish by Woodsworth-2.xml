@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Enkel Arm Chair in Warm Chestnut Finish by Woodsworth</folder>
+	<filename>Enkel Arm Chair in Warm Chestnut Finish by Woodsworth-2.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\All Chairs\Enkel Arm Chair in Warm Chestnut Finish by Woodsworth\Enkel Arm Chair in Warm Chestnut Finish by Woodsworth-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Enkel Arm Chair in Warm Chestnut Finish by Woodsworth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>474</ymin>
+			<xmax>1179</xmax>
+			<ymax>1647</ymax>
+		</bndbox>
+	</object>
+</annotation>

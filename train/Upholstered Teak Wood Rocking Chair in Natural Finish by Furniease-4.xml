@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Upholstered Teak Wood Rocking Chair in Natural Finish by Furniease</folder>
+    <filename>Upholstered Teak Wood Rocking Chair in Natural Finish by Furniease-4.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Upholstered Teak Wood Rocking Chair in Natural Finish by Furniease</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>28</xmin>
+            <ymin>190</ymin>
+            <xmax>1578</xmax>
+            <ymax>1700</ymax>
+        </bndbox>
+    </object>
+</annotation>

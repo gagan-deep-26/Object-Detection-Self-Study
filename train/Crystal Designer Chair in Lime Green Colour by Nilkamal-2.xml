@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Crystal Designer Chair in Lime Green Colour by Nilkamal</folder>
+	<filename>Crystal Designer Chair in Lime Green Colour by Nilkamal-2.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Crystal Designer Chair in Lime Green Colour by Nilkamal\Crystal Designer Chair in Lime Green Colour by Nilkamal-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crystal Designer Chair in Lime Green Colour by Nilkamal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>1</ymin>
+			<xmax>1373</xmax>
+			<ymax>1680</ymax>
+		</bndbox>
+	</object>
+</annotation>

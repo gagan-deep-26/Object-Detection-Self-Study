@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ledo Metal Chair (Set of 2) in Green Colour	by Bohemiana</folder>
+	<filename>Ledo Metal Chair (Set of 2) in Green Colour	by Bohemiana-6.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\All Chairs\Ledo Metal Chair (Set of 2) in Green Colour	by Bohemiana\Ledo Metal Chair (Set of 2) in Green Colour	by Bohemiana-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ledo Metal Chair (Set of 2) in Green Colour	by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>20</ymin>
+			<xmax>1282</xmax>
+			<ymax>1690</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ekati Metal Chair in Yellow Color by Bohemiana</folder>
+	<filename>Ekati Metal Chair in Yellow Color by Bohemiana-5.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\All Chairs\Ekati Metal Chair in Yellow Color by Bohemiana\Ekati Metal Chair in Yellow Color by Bohemiana-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ekati Metal Chair in Yellow Color by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>26</ymin>
+			<xmax>1341</xmax>
+			<ymax>1674</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Anitz Arm Chair in Dual Tone Finish by Woodsworth</folder>
+	<filename>Anitz Arm Chair in Dual Tone Finish by Woodsworth-3.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Anitz Arm Chair in Dual Tone Finish by Woodsworth\Anitz Arm Chair in Dual Tone Finish by Woodsworth-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anitz Arm Chair in Dual Tone Finish by Woodsworth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>598</xmin>
+			<ymin>1026</ymin>
+			<xmax>963</xmax>
+			<ymax>1561</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Anitz Arm Chair in Dual Tone Finish by Woodsworth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1027</xmin>
+			<ymin>1042</ymin>
+			<xmax>1403</xmax>
+			<ymax>1574</ymax>
+		</bndbox>
+	</object>
+</annotation>

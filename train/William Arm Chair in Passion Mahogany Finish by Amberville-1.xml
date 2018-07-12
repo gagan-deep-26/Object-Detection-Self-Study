@@ -1,0 +1,23 @@
+<annotation>
+    <folder>William Arm Chair in Passion Mahogany Finish by Amberville</folder>
+    <filename>William Arm Chair in Passion Mahogany Finish by Amberville-1.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>William Arm Chair in Passion Mahogany Finish by Amberville</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>88</xmin>
+            <ymin>556</ymin>
+            <xmax>1571</xmax>
+            <ymax>1699</ymax>
+        </bndbox>
+    </object>
+</annotation>

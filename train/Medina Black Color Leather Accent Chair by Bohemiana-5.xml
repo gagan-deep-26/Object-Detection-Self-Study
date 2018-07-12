@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medina Black Color Leather Accent Chair by Bohemiana</folder>
+	<filename>Medina Black Color Leather Accent Chair by Bohemiana-5.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/All Chairs/Medina Black Color Leather Accent Chair by Bohemiana/Medina Black Color Leather Accent Chair by Bohemiana-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medina Black Color Leather Accent Chair by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>12</ymin>
+			<xmax>1254</xmax>
+			<ymax>1648</ymax>
+		</bndbox>
+	</object>
+</annotation>

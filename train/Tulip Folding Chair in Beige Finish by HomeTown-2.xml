@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Tulip Folding Chair in Beige Finish by HomeTown</folder>
+    <filename>Tulip Folding Chair in Beige Finish by HomeTown-2.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tulip Folding Chair in Beige Finish by HomeTown</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>209</xmin>
+            <ymin>29</ymin>
+            <xmax>1438</xmax>
+            <ymax>1685</ymax>
+        </bndbox>
+    </object>
+</annotation>

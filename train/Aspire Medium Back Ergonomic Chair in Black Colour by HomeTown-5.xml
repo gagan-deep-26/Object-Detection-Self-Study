@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Aspire Medium Back Ergonomic Chair in Black Colour by HomeTown</folder>
+	<filename>Aspire Medium Back Ergonomic Chair in Black Colour by HomeTown-5.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Aspire Medium Back Ergonomic Chair in Black Colour by HomeTown\Aspire Medium Back Ergonomic Chair in Black Colour by HomeTown-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aspire High Back Ergonomic Chair in Black Colour by HomeTown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>28</ymin>
+			<xmax>1311</xmax>
+			<ymax>1723</ymax>
+		</bndbox>
+	</object>
+</annotation>

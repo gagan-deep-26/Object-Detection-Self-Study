@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Orion Metal Chair (Set of 2) in Orange Colour	by Bohemiana</folder>
+	<filename>Orion Metal Chair (Set of 2) in Orange Colour	by Bohemiana-5.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/All Chairs/Orion Metal Chair (Set of 2) in Orange Colour	by Bohemiana/Orion Metal Chair (Set of 2) in Orange Colour	by Bohemiana-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Orion Metal Chair (Set of 2) in Orange Colour	by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>35</ymin>
+			<xmax>1337</xmax>
+			<ymax>1663</ymax>
+		</bndbox>
+	</object>
+</annotation>

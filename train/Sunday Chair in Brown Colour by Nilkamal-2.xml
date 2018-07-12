@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Sunday Chair in Brown Colour by Nilkamal</folder>
+    <filename>Sunday Chair in Brown Colour by Nilkamal-2.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Sunday Chair in Brown Colour by Nilkamal</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>170</xmin>
+            <ymin>25</ymin>
+            <xmax>1466</xmax>
+            <ymax>1665</ymax>
+        </bndbox>
+    </object>
+</annotation>

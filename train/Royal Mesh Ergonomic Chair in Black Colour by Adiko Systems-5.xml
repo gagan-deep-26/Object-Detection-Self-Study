@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Royal Mesh Ergonomic Chair in Black Colour by Adiko Systems</folder>
+    <filename>Royal Mesh Ergonomic Chair in Black Colour by Adiko Systems-5.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Royal Mesh Ergonomic Chair in Black Colour by Adiko Systems</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>134</xmin>
+            <ymin>27</ymin>
+            <xmax>1419</xmax>
+            <ymax>1702</ymax>
+        </bndbox>
+    </object>
+</annotation>

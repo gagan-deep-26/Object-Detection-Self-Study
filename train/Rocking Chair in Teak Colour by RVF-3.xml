@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Rocking Chair in Teak Colour by RVF</folder>
+    <filename>Rocking Chair in Teak Colour by RVF-3.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Rocking Chair in Teak Colour by RVF</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>625</xmin>
+            <ymin>930</ymin>
+            <xmax>1458</xmax>
+            <ymax>1715</ymax>
+        </bndbox>
+    </object>
+</annotation>

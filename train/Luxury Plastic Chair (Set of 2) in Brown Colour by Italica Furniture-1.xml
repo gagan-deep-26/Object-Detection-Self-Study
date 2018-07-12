@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Luxury Plastic Chair (Set of 2) in Brown Colour by Italica Furniture</folder>
+	<filename>Luxury Plastic Chair (Set of 2) in Brown Colour by Italica Furniture-1.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/All Chairs/Luxury Plastic Chair (Set of 2) in Brown Colour by Italica Furniture/Luxury Plastic Chair (Set of 2) in Brown Colour by Italica Furniture-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Luxury Plastic Chair (Set of 2) in Brown Colour by Italica Furniture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>586</ymin>
+			<xmax>819</xmax>
+			<ymax>1637</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Luxury Plastic Chair (Set of 2) in Brown Colour by Italica Furniture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>581</ymin>
+			<xmax>1565</xmax>
+			<ymax>1578</ymax>
+		</bndbox>
+	</object>
+</annotation>

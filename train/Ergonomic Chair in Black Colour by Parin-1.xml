@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ergonomic Chair in Black Colour by Parin</folder>
+	<filename>Ergonomic Chair in Black Colour by Parin-1.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\All Chairs\Ergonomic Chair in Black Colour by Parin\Ergonomic Chair in Black Colour by Parin-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ergonomic Chair in Black Colour by Parin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>423</ymin>
+			<xmax>1255</xmax>
+			<ymax>1669</ymax>
+		</bndbox>
+	</object>
+</annotation>

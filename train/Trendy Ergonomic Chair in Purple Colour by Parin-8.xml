@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Trendy Ergonomic Chair in Purple Colour by Parin</folder>
+    <filename>Trendy Ergonomic Chair in Purple Colour by Parin-8.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Trendy Ergonomic Chair in Purple Colour by Parin</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>315</xmin>
+            <ymin>28</ymin>
+            <xmax>1329</xmax>
+            <ymax>1695</ymax>
+        </bndbox>
+    </object>
+</annotation>

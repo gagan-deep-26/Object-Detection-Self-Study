@@ -1,0 +1,23 @@
+<annotation>
+    <folder>White Cotton Table Lamp by Fabuliv</folder>
+    <filename>White Cotton Table Lamp by Fabuliv-5.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>White Cotton Table Lamp by Fabuliv</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>942</xmin>
+            <ymin>934</ymin>
+            <xmax>1478</xmax>
+            <ymax>1653</ymax>
+        </bndbox>
+    </object>
+</annotation>

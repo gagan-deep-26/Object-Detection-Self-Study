@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Horan Folding Chair by Bohemiana</folder>
+	<filename>Horan Folding Chair by Bohemiana-11.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\All Chairs\Horan Folding Chair by Bohemiana\Horan Folding Chair by Bohemiana-11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Horan Folding Chair by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>7</ymin>
+			<xmax>1600</xmax>
+			<ymax>1759</ymax>
+		</bndbox>
+	</object>
+</annotation>

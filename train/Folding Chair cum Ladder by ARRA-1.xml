@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Folding Chair cum Ladder by ARRA</folder>
+	<filename>Folding Chair cum Ladder by ARRA-1.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\All Chairs\Folding Chair cum Ladder by ARRA\Folding Chair cum Ladder by ARRA-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Folding Chair cum Ladder by ARRA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>344</ymin>
+			<xmax>1285</xmax>
+			<ymax>1677</ymax>
+		</bndbox>
+	</object>
+</annotation>

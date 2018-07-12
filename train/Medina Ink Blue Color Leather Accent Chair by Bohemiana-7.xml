@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medina Ink Blue Color Leather Accent Chair by Bohemiana</folder>
+	<filename>Medina Ink Blue Color Leather Accent Chair by Bohemiana-7.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/All Chairs/Medina Ink Blue Color Leather Accent Chair by Bohemiana/Medina Ink Blue Color Leather Accent Chair by Bohemiana-7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medina Ink Blue Color Leather Accent Chair by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>7</ymin>
+			<xmax>1357</xmax>
+			<ymax>1645</ymax>
+		</bndbox>
+	</object>
+</annotation>

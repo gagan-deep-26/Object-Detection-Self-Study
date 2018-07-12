@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lisheen Outdoor Iron Chair in Yellow Color by Bohemiana</folder>
+	<filename>Lisheen Outdoor Iron Chair in Yellow Color by Bohemiana-1.jpg</filename>
+	<path>C:\Users\gagan\Desktop\ObjectDetection_SS\images\All Chairs\Lisheen Outdoor Iron Chair in Yellow Color by Bohemiana\Lisheen Outdoor Iron Chair in Yellow Color by Bohemiana-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lisheen Outdoor Iron Chair in Yellow Color by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>126</ymin>
+			<xmax>1285</xmax>
+			<ymax>1693</ymax>
+		</bndbox>
+	</object>
+</annotation>

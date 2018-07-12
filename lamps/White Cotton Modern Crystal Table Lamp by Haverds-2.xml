@@ -1,0 +1,23 @@
+<annotation>
+    <folder>White Cotton Modern Crystal Table Lamp by Haverds</folder>
+    <filename>White Cotton Modern Crystal Table Lamp by Haverds-2.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>White Cotton Modern Crystal Table Lamp by Haverds</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>225</xmin>
+            <ymin>155</ymin>
+            <xmax>1307</xmax>
+            <ymax>1627</ymax>
+        </bndbox>
+    </object>
+</annotation>

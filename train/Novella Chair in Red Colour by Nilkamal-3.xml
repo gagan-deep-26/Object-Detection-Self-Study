@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Novella Chair in Red Colour by Nilkamal</folder>
+	<filename>Novella Chair in Red Colour by Nilkamal-3.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/All Chairs/Novella Chair in Red Colour by Nilkamal/Novella Chair in Red Colour by Nilkamal-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Novella Chair in Red Colour by Nilkamal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymin>871</ymin>
+			<xmax>1342</xmax>
+			<ymax>1643</ymax>
+		</bndbox>
+	</object>
+</annotation>

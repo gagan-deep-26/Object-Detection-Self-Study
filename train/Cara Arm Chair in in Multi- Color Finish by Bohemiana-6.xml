@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cara Arm Chair in in Multi- Color Finish by Bohemiana</folder>
+	<filename>Cara Arm Chair in in Multi- Color Finish by Bohemiana-6.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Cara Arm Chair in in Multi- Color Finish by Bohemiana\Cara Arm Chair in in Multi- Color Finish by Bohemiana-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cara Arm Chair in in Multi- Color Finish by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>23</ymin>
+			<xmax>1517</xmax>
+			<ymax>1655</ymax>
+		</bndbox>
+	</object>
+</annotation>

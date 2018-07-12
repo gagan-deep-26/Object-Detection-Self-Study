@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Amarillo Arm Chair in Provincial Teak Finish by Woodsworth</folder>
+	<filename>Amarillo Arm Chair in Provincial Teak Finish by Woodsworth-2.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Amarillo Arm Chair in Provincial Teak Finish by Woodsworth\Amarillo Arm Chair in Provincial Teak Finish by Woodsworth-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Amarillo Arm Chair in Provincial Teak Finish by Woodsworth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>277</ymin>
+			<xmax>1233</xmax>
+			<ymax>1744</ymax>
+		</bndbox>
+	</object>
+</annotation>

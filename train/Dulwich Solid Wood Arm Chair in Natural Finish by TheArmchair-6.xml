@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dulwich Solid Wood Arm Chair in Natural Finish by TheArmchair</folder>
+	<filename>Dulwich Solid Wood Arm Chair in Natural Finish by TheArmchair-6.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Dulwich Solid Wood Arm Chair in Natural Finish by TheArmchair\Dulwich Solid Wood Arm Chair in Natural Finish by TheArmchair-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dulwich Solid Wood Arm Chair in Natural Finish by TheArmchair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>26</ymin>
+			<xmax>1503</xmax>
+			<ymax>1747</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Off White Cotton Table Lamp by New Era</folder>
+    <filename>Off White Cotton Table Lamp by New Era-7.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Off White Cotton Table Lamp by New Era</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1027</xmin>
+            <ymin>1238</ymin>
+            <xmax>1318</xmax>
+            <ymax>1743</ymax>
+        </bndbox>
+    </object>
+</annotation>

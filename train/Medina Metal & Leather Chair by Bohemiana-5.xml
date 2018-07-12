@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medina Metal &amp; Leather Chair by Bohemiana</folder>
+	<filename>Medina Metal &amp; Leather Chair by Bohemiana-5.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/All Chairs/Medina Metal &amp; Leather Chair by Bohemiana/Medina Metal &amp; Leather Chair by Bohemiana-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medina Metal &amp; Leather Chair by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>9</ymin>
+			<xmax>1242</xmax>
+			<ymax>1658</ymax>
+		</bndbox>
+	</object>
+</annotation>

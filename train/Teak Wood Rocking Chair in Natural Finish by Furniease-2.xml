@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Teak Wood Rocking Chair in Natural Finish by Furniease</folder>
+    <filename>Teak Wood Rocking Chair in Natural Finish by Furniease-2.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Teak Wood Rocking Chair in Light Teak Finish by Karigar</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>251</xmin>
+            <ymin>9</ymin>
+            <xmax>1336</xmax>
+            <ymax>1689</ymax>
+        </bndbox>
+    </object>
+</annotation>

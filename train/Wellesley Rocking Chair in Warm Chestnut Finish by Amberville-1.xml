@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Wellesley Rocking Chair in Warm Chestnut Finish by Amberville</folder>
+    <filename>Wellesley Rocking Chair in Warm Chestnut Finish by Amberville-1.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Wellesley Rocking Chair in Warm Chestnut Finish by Amberville</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>151</xmin>
+            <ymin>243</ymin>
+            <xmax>1560</xmax>
+            <ymax>1642</ymax>
+        </bndbox>
+    </object>
+</annotation>

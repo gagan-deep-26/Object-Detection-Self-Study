@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Trujillo Black Black Jute Shade Table Lamp by CasaCraft</folder>
+    <filename>Trujillo Black Black Jute Shade Table Lamp by CasaCraft-3.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Trujillo Black Black Jute Shade Table Lamp by CasaCraft</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>347</xmin>
+            <ymin>185</ymin>
+            <xmax>1178</xmax>
+            <ymax>1605</ymax>
+        </bndbox>
+    </object>
+</annotation>

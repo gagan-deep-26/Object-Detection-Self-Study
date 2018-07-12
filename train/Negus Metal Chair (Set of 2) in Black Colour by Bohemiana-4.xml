@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Negus Metal Chair (Set of 2) in Black Colour by Bohemiana</folder>
+	<filename>Negus Metal Chair (Set of 2) in Black Colour by Bohemiana-4.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/All Chairs/Negus Metal Chair (Set of 2) in Black Colour by Bohemiana/Negus Metal Chair (Set of 2) in Black Colour by Bohemiana-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Negus Metal Chair (Set of 2) in Black Colour by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>48</ymin>
+			<xmax>1326</xmax>
+			<ymax>1653</ymax>
+		</bndbox>
+	</object>
+</annotation>

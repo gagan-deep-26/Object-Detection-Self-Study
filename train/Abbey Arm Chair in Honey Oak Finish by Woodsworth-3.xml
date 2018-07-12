@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Abbey Arm Chair in Honey Oak Finish by Woodsworth</folder>
+	<filename>Abbey Arm Chair in Honey Oak Finish by Woodsworth-3.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Abbey Arm Chair in Honey Oak Finish by Woodsworth\Abbey Arm Chair in Honey Oak Finish by Woodsworth-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Abbey Arm Chair in Honey Oak Finish by Woodsworth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>573</xmin>
+			<ymin>944</ymin>
+			<xmax>922</xmax>
+			<ymax>1599</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Abbey Arm Chair in Honey Oak Finish by Woodsworth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>968</xmin>
+			<ymin>971</ymin>
+			<xmax>1333</xmax>
+			<ymax>1590</ymax>
+		</bndbox>
+	</object>
+</annotation>

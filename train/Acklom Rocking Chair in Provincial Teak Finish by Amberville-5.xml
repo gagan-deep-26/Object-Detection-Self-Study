@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Acklom Rocking Chair in Provincial Teak Finish by Amberville</folder>
+	<filename>Acklom Rocking Chair in Provincial Teak Finish by Amberville-5.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Acklom Rocking Chair in Provincial Teak Finish by Amberville\Acklom Rocking Chair in Provincial Teak Finish by Amberville-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Acklom Rocking Chair in Provincial Teak Finish by Amberville</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>147</ymin>
+			<xmax>1600</xmax>
+			<ymax>1687</ymax>
+		</bndbox>
+	</object>
+</annotation>

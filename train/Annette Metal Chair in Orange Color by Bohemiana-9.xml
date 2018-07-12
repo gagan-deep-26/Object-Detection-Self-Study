@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Annette Metal Chair in Orange Color by Bohemiana</folder>
+	<filename>Annette Metal Chair in Orange Color by Bohemiana-9.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Annette Metal Chair in Orange Color by Bohemiana\Annette Metal Chair in Orange Color by Bohemiana-9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Annette Metal Chair in Orange Color by Bohemiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>9</ymin>
+			<xmax>1360</xmax>
+			<ymax>1685</ymax>
+		</bndbox>
+	</object>
+</annotation>

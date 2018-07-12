@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Stalley Arm Chair in Cream Color with Honey Oak Finish by Amberville</folder>
+    <filename>Stalley Arm Chair in Cream Color with Honey Oak Finish by Amberville-9.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Stalley Arm Chair in Cream Color with Honey Oak Finish by Amberville</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>36</xmin>
+            <ymin>7</ymin>
+            <xmax>1552</xmax>
+            <ymax>1651</ymax>
+        </bndbox>
+    </object>
+</annotation>

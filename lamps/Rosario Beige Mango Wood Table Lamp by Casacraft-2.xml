@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Rosario Beige Mango Wood Table Lamp by Casacraft</folder>
+    <filename>Rosario Beige Mango Wood Table Lamp by Casacraft-2.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Rosario Beige Mango Wood Table Lamp by Casacraft</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>363</xmin>
+            <ymin>216</ymin>
+            <xmax>1177</xmax>
+            <ymax>1675</ymax>
+        </bndbox>
+    </object>
+</annotation>

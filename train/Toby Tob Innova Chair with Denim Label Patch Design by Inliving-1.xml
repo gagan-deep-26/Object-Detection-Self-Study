@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Toby Tob Innova Chair with Denim Label Patch Design by Inliving</folder>
+    <filename>Toby Tob Innova Chair with Denim Label Patch Design by Inliving-1.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Toby Tob Innova Chair with Denim Label Patch Design by Inliving</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>174</xmin>
+            <ymin>244</ymin>
+            <xmax>1354</xmax>
+            <ymax>1684</ymax>
+        </bndbox>
+    </object>
+</annotation>

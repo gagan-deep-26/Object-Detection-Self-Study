@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Low Seat Rocking Chair in Beige Leatherette by Durian</folder>
+	<filename>Low Seat Rocking Chair in Beige Leatherette by Durian-10.jpg</filename>
+	<path>/home/raagini/Object detection/ObjectDetection_SS/images/All Chairs/Low Seat Rocking Chair in Beige Leatherette by Durian/Low Seat Rocking Chair in Beige Leatherette by Durian-10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Low Seat Rocking Chair in Beige Leatherette by Durian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>873</ymin>
+			<xmax>826</xmax>
+			<ymax>1484</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Low Seat Rocking Chair in Beige Leatherette by Durian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>924</xmin>
+			<ymin>884</ymin>
+			<xmax>1542</xmax>
+			<ymax>1578</ymax>
+		</bndbox>
+	</object>
+</annotation>

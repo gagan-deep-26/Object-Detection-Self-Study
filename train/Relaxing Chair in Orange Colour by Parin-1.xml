@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Relaxing Chair in Orange Colour by Parin</folder>
+    <filename>Relaxing Chair in Orange Colour by Parin-1.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Relaxing  Chair in orange Colour by @Home</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>159</xmin>
+            <ymin>54</ymin>
+            <xmax>1494</xmax>
+            <ymax>1666</ymax>
+        </bndbox>
+    </object>
+</annotation>

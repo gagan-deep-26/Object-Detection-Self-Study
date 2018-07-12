@@ -1,0 +1,23 @@
+<annotation>
+    <folder>Off White Linen Edna Table Lamp by Orange Tree</folder>
+    <filename>Off White Linen Edna Table Lamp by Orange Tree-4.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Off White Linen Edna Table Lamp by Orange Tree</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>93</xmin>
+            <ymin>24</ymin>
+            <xmax>1446</xmax>
+            <ymax>1757</ymax>
+        </bndbox>
+    </object>
+</annotation>

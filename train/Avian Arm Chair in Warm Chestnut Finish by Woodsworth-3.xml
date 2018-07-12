@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Avian Arm Chair in Warm Chestnut Finish by Woodsworth</folder>
+	<filename>Avian Arm Chair in Warm Chestnut Finish by Woodsworth-3.jpg</filename>
+	<path>D:\Projects\ObjectDetection\git\images\All Chairs\Avian Arm Chair in Warm Chestnut Finish by Woodsworth\Avian Arm Chair in Warm Chestnut Finish by Woodsworth-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Avian Arm Chair in Warm Chestnut Finish by Woodsworth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>1147</ymin>
+			<xmax>909</xmax>
+			<ymax>1593</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Avian Arm Chair in Warm Chestnut Finish by Woodsworth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>995</xmin>
+			<ymin>1131</ymin>
+			<xmax>1379</xmax>
+			<ymax>1588</ymax>
+		</bndbox>
+	</object>
+</annotation>
